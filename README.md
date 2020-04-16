@@ -79,5 +79,5 @@ _DOUGH is PieDAO Governance Token. It is the combination of a "pie dough" a "dou
 <img width="712" alt="separator" src="https://user-images.githubusercontent.com/10923247/79359624-1e883200-7f43-11ea-8541-03070f9e0d10.png">
 
 You can find all the graphic assets, high-resolution images, and vectors on this repository. 
-If you need anything specific please join our design channel on Discord on the following link:
+If you need anything specific please open an issue on this repository or join our design channel on Discord on the following link:
 https://discord.gg/Mnda9wr
