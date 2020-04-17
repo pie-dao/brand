@@ -6,7 +6,7 @@ _Welcome to our brand guidelines and assets. With these guidelines, we want to m
 
 **Logo & Icon**
 
-Our logo is the combination of a simple wordmark with a colorful circle icon. It exists in only 2 versions: icon only and icon+wordmak. The wordmark also presents different combinations of color background and gray tones variations. Please use it as displayed in this document. Please DO NOT change color, stretch or rotate the logo.
+Our logo is the combination of a simple wordmark with a colorful circle icon. It exists in only 2 versions: icon only and icon+wordmark. The wordmark also presents different combinations of color background and gray tones variations. Please use it as displayed in this document. Please DO NOT change color, stretch or rotate the logo.
 
 <img width="712" alt="separator" src="https://user-images.githubusercontent.com/10923247/79359624-1e883200-7f43-11ea-8541-03070f9e0d10.png">
 
